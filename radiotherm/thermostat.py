@@ -167,3 +167,5 @@ class CT50v194(CommonThermostat):
     """
     MODEL = 'CT50 V1.94'
 
+class CT30v194(CommonThermostat):
+    MODEL = 'CT30 V1.94'
